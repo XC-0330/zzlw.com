@@ -1,0 +1,32 @@
+<style>
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2020/01/24/19/32/watercolor-4789700_1280.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: "KaiTi", "STKaiti", serif;
+    color: #2C1B18;
+}
+h1, h2, h3 {
+    color: #4B2E2E;
+}
+.stApp {
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 15px;
+    padding: 25px;
+    margin: 30px;
+}
+.stTextInput>div>div>input {
+    background-color: #f9f5f0;
+    color: #2C1B18;
+}
+.stButton>button {
+    background-color: #d6b38c;
+    color: #2C1B18;
+    border-radius: 8px;
+    border: none;
+}
+.stButton>button:hover {
+    background-color: #e6cbb1;
+}
+</style>
